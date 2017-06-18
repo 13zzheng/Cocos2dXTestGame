@@ -1,0 +1,76 @@
+Quick-Cocos2dx-Community C++ support ready.
+
+------------------------------------------------
+
+LOAD LUA FILE: F:/Code/Quick-Cocos2dx-Project/bird/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 1
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = F:\Code\Quick-Cocos2dx-Project\bird\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_HEIGHT
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 568.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 320.00
+
+[LUA-print] [INFO] # display.widthInPixels        = 1136.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 640.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 2.00
+
+[LUA-print] [INFO] # display.width                = 568.00
+
+[LUA-print] [INFO] # display.height               = 320.00
+
+[LUA-print] [INFO] # display.cx                   = 284.00
+
+[LUA-print] [INFO] # display.cy                   = 160.00
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 568.00
+
+[LUA-print] [INFO] # display.top                  = 320.00
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -284.00
+
+[LUA-print] [INFO] # display.c_right              = 284.00
+
+[LUA-print] [INFO] # display.c_top                = 160.00
+
+[LUA-print] [INFO] # display.c_bottom             = -160.00
+
+[LUA-print] [INFO] #
+
+Node warning: setPhysicsBody sets anchor point to Vec2::ANCHOR_MIDDLE.
+
+Node warning: setPhysicsBody sets anchor point to Vec2::ANCHOR_MIDDLE.
+
